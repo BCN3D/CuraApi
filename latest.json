@@ -4,19 +4,19 @@
             "major": 1,
             "minor": 0,
             "revision": 2,
-            "url": ""
+            "url": "https://github.com/BCN3D/Cura/releases"
         },
         "Linux": {
             "major": 1,
             "minor": 0,
             "revision": 2,
-            "url": ""
+            "url": "https://github.com/BCN3D/Cura/releases"
         },
         "Darwin": {
             "major": 1,
             "minor": 0,
             "revision": 2,
-            "url": ""
+            "url": "https://github.com/BCN3D/Cura/releases"
         }
     }
 }
