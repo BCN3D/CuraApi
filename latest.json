@@ -1,19 +1,19 @@
 {
     "Bcn3DCura": {
         "Windows": {
-            "major": 3,
+            "major": 1,
             "minor": 0,
             "revision": 2,
             "url": ""
         },
         "Linux": {
-            "major": 3,
+            "major": 1,
             "minor": 0,
             "revision": 2,
             "url": ""
         },
         "Darwin": {
-            "major": 3,
+            "major": 1,
             "minor": 0,
             "revision": 2,
             "url": ""
