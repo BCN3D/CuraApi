@@ -4,19 +4,19 @@
             "major": 1,
             "minor": 0,
             "revision": 3,
-            "url": "https://github.com/BCN3D/Cura/releases"
+            "url": "https://www.bcn3dtechnologies.com/en/3d-printer/bcn3d-cura/"
         },
         "Linux": {
             "major": 1,
             "minor": 0,
             "revision": 3,
-            "url": "https://github.com/BCN3D/Cura/releases"
+            "url": "https://www.bcn3dtechnologies.com/en/3d-printer/bcn3d-cura/"
         },
         "Darwin": {
             "major": 1,
             "minor": 0,
             "revision": 3,
-            "url": "https://github.com/BCN3D/Cura/releases"
+            "url": "https://www.bcn3dtechnologies.com/en/3d-printer/bcn3d-cura/"
         }
     }
 }
