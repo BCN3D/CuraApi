@@ -3,19 +3,19 @@
         "Windows": {
             "major": 2,
             "minor": 0,
-            "revision": 0,
+            "revision": 1,
             "url": "https://www.bcn3dtechnologies.com/en/3d-printer/bcn3d-cura/"
         },
         "Linux": {
             "major": 2,
             "minor": 2,
-            "revision": 0,
+            "revision": 1,
             "url": "https://www.bcn3dtechnologies.com/en/3d-printer/bcn3d-cura/"
         },
         "Darwin": {
             "major": 2,
             "minor": 2,
-            "revision": 0,
+            "revision": 1,
             "url": "https://www.bcn3dtechnologies.com/en/3d-printer/bcn3d-cura/"
         }
     }
